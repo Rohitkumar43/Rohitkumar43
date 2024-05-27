@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kumarrohit9337@gmail.com**
 
-- ⚡ Fun fact **Half Development is About Debugging**
+- ⚡ Fun fact **Always Stalk to other tech Profile in free time **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
