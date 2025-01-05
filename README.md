@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
-<h3 align="center">A passionate MERN stack Developer From India</h3>
+<h3 align="center">A passionate Full stack Developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitkumar43&label=Profile%20views&color=0e75b6&style=flat" alt="rohitkumar43" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rohitku37748535" target="blank"><img src="https://img.shields.io/twitter/follow/rohitku37748535?logo=twitter&style=for-the-badge" alt="rohitku37748535" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structure and Algorithm and Next.js for Development**
+- 🌱 I’m currently learning **Next.js , PostgreSQL and Basic of Devops**
 
-- 💬 Ask me about **React , Node.js and express.js and a bit about Problem Solving**
+- 💬 Ask me about **React , Node.js and express.js and Databases **
 
 - 📫 How to reach me **kumarrohit9337@gmail.com**
 
